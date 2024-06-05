@@ -9,7 +9,7 @@ Full Stack Developer
 * 🌍  I'm based in Santiago
 * ✉️  You can contact me at [marco.ssalas.85@gmail.com](mailto:marco.ssalas.85@gmail.com)
 * 🚀  I'm currently working on [SapireGas](http://sapire.cl)
-* 🧠  I'm learning React - Angular
+* 🧠  I'm learning React - Angular - Java - Springboot
 
 <a href="https://www.github.com/marcoandres" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/marcoandres?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
